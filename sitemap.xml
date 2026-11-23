@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://einonm.github.io/carptest/01-intro.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/02-numpy.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/03-matplotlib.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/04-lists.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/05-loop.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/06-files.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/07-cond.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/08-func.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/09-errors.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/10-defensive.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/11-debugging.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/12-cmdline.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/404.html</loc>
   </url>
   <url>
@@ -10,10 +46,52 @@
     <loc>https://einonm.github.io/carptest/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://einonm.github.io/carptest/aio.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/citation.html</loc>
   </url>
   <url>
+    <loc>https://einonm.github.io/carptest/images.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/index.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/01-intro.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/02-numpy.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/03-matplotlib.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/04-lists.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/05-loop.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/06-files.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/07-cond.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/08-func.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/09-errors.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/10-defensive.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/11-debugging.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/12-cmdline.html</loc>
   </url>
   <url>
     <loc>https://einonm.github.io/carptest/instructor/404.html</loc>
@@ -25,13 +103,25 @@
     <loc>https://einonm.github.io/carptest/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://einonm.github.io/carptest/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/instructor/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/images.html</loc>
   </url>
   <url>
     <loc>https://einonm.github.io/carptest/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://einonm.github.io/carptest/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://einonm.github.io/carptest/instructor/profiles.html</loc>
@@ -40,7 +130,13 @@
     <loc>https://einonm.github.io/carptest/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://einonm.github.io/carptest/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://einonm.github.io/carptest/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/carptest/key-points.html</loc>
   </url>
   <url>
     <loc>https://einonm.github.io/carptest/profiles.html</loc>
