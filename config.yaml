@@ -38,7 +38,7 @@ license: 'CC-BY 4.0'
 source: 'https://github.com/einonm/carptest'
 
 # Default branch of your lesson
-branch: 'gh-pages'
+branch: 'main'
 
 # Who to contact if there are any issues
 contact: 'einonm@cardiff.ac.uk'
